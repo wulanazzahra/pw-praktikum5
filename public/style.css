@@ -1,0 +1,53 @@
+/* .img {
+  width: 500px;
+  height: 350px;
+} */
+
+.button {
+  border-radius: 8px;
+  background-color: #9fa4fb;
+  border: none;
+  padding: 8px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.button:hover {
+  background-color: #5528db;
+  color: white;
+}
+
+.btn-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-sm {
+  background-color: #9fa4fb;
+  color: black;
+}
+
+.btn-sm:hover {
+  background-color: #5528db;
+  color: white;
+}
+
+/* .nav-link {
+  color: green;
+}
+
+.nav-item > a:hover {
+  color: green;
+}
+
+/*code to change background color*/
+/* .navbar-nav > .active > a {
+  background-color: #c0c0c0;
+  color: green; } */
+
+.box {
+  border: 1px #5528db;
+  width: 50px;
+  height: 50px;
+}
